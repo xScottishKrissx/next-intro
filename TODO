@@ -1,0 +1,18 @@
+
+Next.js Intro:
+  ☐ Baby steps, do the tutorial and go from there.
+
+help:
+  ☐ link elements need to be on separate lines or you get an error
+  ☐ control + c to stop dev server
+  ☐ use the "classnames" plugin library to toggle classnames
+  ☐ you need to install sass to use it
+    ☐ sass works with modules.
+  ☐ Static Side Rendering
+    ☐ When your page doesn't need to constantly update
+  ☐ Server Side Rendering
+    ☐ When your page needs to constantly update (like updating scores)
+  ☐ Client Side Rendering (might be the way to go for livescores)
+    ☐ generate parts of the page that don't need data
+  ☐ using markdown content in next.js requires remark library
+  ☐ To format the date, use the date-fns library
